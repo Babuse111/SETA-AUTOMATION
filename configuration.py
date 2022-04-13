@@ -2,7 +2,7 @@ from googleapiclient.discovery import build
 from google.oauth2 import service_account
 
 SCOPES = ["https://www.googleapis.com/auth/sqlservice.admin"]
-SERVICE_ACCOUNT_FILE = "sita-automation-ba053c79803c.json"
+SERVICE_ACCOUNT_FILE = "keys.json"
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 SPREADSHEET_ID_2021 = "1GqeQ4kT79AizP6Wfr29ggvB8-ND4yPghwaA-BljUXPc"
 SPREADSHEET_ID_2022 = "1JPZBtnOPuWU3uiBA7QUXujH-6UFO_ndzN2t01RBDx7E"
