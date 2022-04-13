@@ -29,7 +29,7 @@ result = sheet.values().get(spreadsheetId=SAMPLE_SPREADSHEET_ID,
                                         range="Cohorts!A1:H13").execute()
 values = result.get('values', [])
 
- print(values)
+print(values)
 
 
 
