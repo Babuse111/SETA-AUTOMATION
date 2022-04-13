@@ -1,4 +1,4 @@
 .dist
 .pytest_cache
-keys.json
-.env
+__pycache__
+env
