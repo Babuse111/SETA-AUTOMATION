@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sita-automation",
+  "private_key_id": "ba053c79803c1d4dca9f4d55f457bdbc9f987a7f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDOnk0S9snso0g/\neN6HwMCtlEnDBHsYOXNZtlqtKB8iPybf55Ciba80qYTgjutLKQMCYpEQ0cQAjbnG\n7q/2XkxjmfRsdU36SsaqgSUoZluJsZHFdSp0SDsok0R31lccHq1iERj6FyI2zwGa\naetkHVn3Xlr7gF2TnW65oTbvMEvQ/fyzoa+tz1+HF70RX1XEDrUKI0dBRpbmeep7\njaDxhrvM+uheHSy3EzdIGNeU9NP/rVnLJlCxob79nvi/Er1mOrHJwW11txTc7oU3\nc4HUyPhBh4Taglb3uUt2Y4ksDUUwJKeuRUjEOevfSMTbFJ64898ZbhU41NX9mvH9\nV74TQtiBAgMBAAECggEAByR2wpyQX2NHmJYbjzLNFlMFd73caXp279d7a/fyl5L6\nS4wsNkk3YMkpZD/ch2UcCwWQQTYXIfPEQ8m1gH1DA8BrMCKf9vKFypgbSjm7mVdv\nlBVYSdvDW8Q3fjMFIN44nSa9J8wL7TwbsJRPxE61cPUsjPwjf/pVvQoDJaKURF2r\nasINksmEJDhKie4oTMeqqvSpyHbd7SvJwZ2MN4CqyQb6SW7a9EYr0UYdVb8PbUam\n4ESGV6ncu96rX4lJFU8oH/HhhEYjTYcGUohH5QiHp19fVWg3uMFllvYetQ4gs4ee\ngvyUo0d42WKR6wOE63e4zWqGD4JCMkQjHIVY0M51iQKBgQDqirB010cpRMm/cdiG\n3+pJp1Li6S/EIFt/ExSr3aeFq7t4HgTKVguonU0jnVG1bhjUeUDbI0UyRnDWuXsS\nCAYl96xKLA7AasABPVi6QYqlREndCUM/3AEqCTXFo/wNxe808zB67etADWr0tT2+\nS8oefUEefcqrxFsAZpB2DBsb1QKBgQDhhZrq2kA9S3cX3tcuYfiGb30yjbC9o4RL\n8tzBNIq2P8jPZ+lVMzGyGUKfXFTZCTzQ7PFPywTfr/WMnQzWEi+jXpi629x4aumo\nzu1csuRMjy0w2p6d3O9Kr/AMDqsJPKJDCHmyyiXAO3k1nJvXjrU4NEra0OzucbY2\nGu+VhzV7/QKBgQCDPK12A4u3BN2auRo+hgZzxiO0AmUO6kgoN8YGURXOzwQsNyfZ\nDAKkC7jBJ+MzkPJl2Z83v2mVsyKqk8jQkxrVnduS+Uob0t+zEd+XANuSlD58ZxVx\nIyqnmdWzzIlaL5ok17sV3hEXmypw2QU+eOwU2WNZq2t/Z3TAKaPF2gpFLQKBgQCn\n9kO86jOx8wSNyK/moZzhMyPBhPm/I4uirQxw8NrmhXbf0fpcNDas+FdALRocUt7y\nk6Xd0cyddIWi5kzrGrxUJl4FvT3kiWvhB8yMn8ecpX34xrofxK6Lp6FWuY304S3Q\nUv2ghSG8nA7YOP1we57Ib1nYwoXTyOj2PvV1HjBdWQKBgQCXRiyyh2KXxSlMWA+/\nAMhPDyTWl3VF/biwRwZqfHtEZPyto0GBCOwTt7n4TdyT9ghyi5UNt9jGApN8nqtq\norR0mK7q3/IkvbBthZGAgCEaN86AD+yBDN2/Nj3eEFZJtwFSF+ST5/chB11lQdkw\n/6R76oKK5kK9wWepfAehrVttrA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "credentials@sita-automation.iam.gserviceaccount.com",
+  "client_id": "112591666657043449988",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/credentials%40sita-automation.iam.gserviceaccount.com"
+}
