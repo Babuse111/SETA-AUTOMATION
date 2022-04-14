@@ -5,6 +5,7 @@ from httplib2 import Credentials
 import pandas as pd
 import gspread
 from df2gspread import df2gspread as d2g
+from openpyxl import Workbook
 
 SCOPES = ["https://www.googleapis.com/auth/sqlservice.admin"]
 SERVICE_ACCOUNT_FILE = "keys.json"
@@ -38,9 +39,11 @@ cohort_2022_df = pd.DataFrame(cohort_2022)
 
 final_df = pd.concat([cohort_2021_df,cohort_2022_df], axis=0)
 
-SPREADSHEET_ID_FINAL ='1e3mhDmHdFuQnIbO89yqoF9OsY5fxWWAmcodaw1AlL0I'
-WORKSHEET_NAME = "Cohort"
+# SPREADSHEET_ID_FINAL ='1e3mhDmHdFuQnIbO89yqoF9OsY5fxWWAmcodaw1AlL0I'
+# WORKSHEET_NAME = "Cohort"
 
-d2g.upload(final_df, SPREADSHEET_ID_FINAL,WORKSHEET_NAME, credentials=creds)
+# d2g.upload(final_df, SPREADSHEET_ID_FINAL,WORKSHEET_NAME, credentials=creds)
+with pd.ExcelWriter("final.xlsx") as writer:
+    final_df.to_excel(writer,sheet_name="Cohort")
 
-print(final_df.head())
+# print(final_df.head())
