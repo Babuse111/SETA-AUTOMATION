@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "seta-automation",
+  "private_key_id": "71219e0e5eb09d429804448d93d2a60319383b4c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXUwqYGpac95ZD\nAK1haCbybLLnC/TisNlCTc8s0sLixRy2A49G9QjaWlK5L3NDEkTCzgiMaTul2+jE\npDi3MpREvp2U8NyCZdWMCb8v0+gJ+ItgkfNvPuU/YE/EMiQ1vAbjkduWIT6Dqrxm\nsebrqMwr8lsbVyCQovHCshfWdhYNT7fdmybUxzgbWrJPx9tTwFnh7lkksTxgYRsU\nIZ42JajFTBx/mqzYJ9ghHn2q83IcHhogyBHBZ1yCUzwL0L+gixVxquM2Wb+rv45D\nZSXV8MuEfbXoUjkDarDMZPj4hsonjFLON9SIlSyTMCPawi6v2AJ5bAgkgmhLsPQ5\nvHgKfy6DAgMBAAECggEAFna7NmGQD+Td4hFvgOvGCFaO56dJ5v3A1XZuixAN4pMc\nqX/Kx7T9Z54L9LYGDXlgoBiXgpyRQGnDsAP+8Ax/9S/k0w+UdH5rM+WIg7BDRyOl\n286ezYS6jGzJj+2vnBMkZKj/k4BY4uaNdE30N/HwE+q05VCgTXMFolTvc/nwrnCh\n+8d3NEXWOUGYDLEuZ2mwlmBAGbaDbOPBKeHbR4svQuAEZi31ceDd/+Dzu/hnUY+l\nDNNm7aY8dRVhyewCymHxQjndfsAFw6vo+lDvpDvn5Ds6ux7pCbiETzq9Dv9Jl/Y3\njrOtktkvipl56Q4S7ezDoIIm4Pn3FQRKBYjY9dX4QQKBgQDVbxin6z4IC5WQ21eS\nixi9vWYlaoyyo/SNmFEelGQi5z4+idnXcr6NIO2InmM5wk1Ze2Nmqd2uU5dmuh8D\nhjLlwDkk7oB7zNGuvqOwuVQC00sgB4gz/Ep20cG3gR+Qqnvqv6+v0OM+pfsKZuvv\nErs60SWYhBtTIyHPwa8GAxpJwQKBgQC1gO45SyP2y+houe5T+A5cIh/NwR4BFoeu\nNs6B9FeIYhaR0QuUCr+ioapfqRBZxRwezjGRzISafLs0glTTKkaMUjU+HhfQ/5Rn\nNiaRfsYaBzEB9MMEHLgV4jDxMNa4rV4Yv/mu99qQlcEA/AXk2X80TrkMMFDEaVQ0\nGXV0RhwhQwKBgAL5Lj3AoDeaebXv6FNpTqnuBotE5brjX9fNJGwpow99azeR0hAX\nUCJFMCn0EuvOEifJ+UOH4Ee6cGSE+UOiTfk3aVRjYjTXUKB/lWYz3sC/Us+aa0JW\nJG9tUqaMzPTF+z3096yaW2AXDd1CO80z1JnoKf7q8DqDRchQKXELAAXBAoGAATJI\nX7hPFGFjts0C9Sq9bX4MF58eQ4OSgWN7GQAzU4LSA0QNf3xSpw/Jv7etk+notYtG\naF+gwCPyV/ZD+OBedq5UC4THQ2lr4QJKXssnIyTI/epPHsfRrtM+31gjEjSSWjdp\nve2EU0+pZghDQa7tV7rtHVd0MNdA5tcEHzAXH2ECgYAps2kmkNGwXb9Ua4ODCwZm\nLW7+SZL1cvVY8mMrgn4XtGH1fIYlNDtwjCQIbBhHH0kaOaJsP5eHBsFUrwvLKlCi\nDLKiz0gYGuQiuQEC5nLDitmwLh1xwQAc1PGxyMMNhvegwQ5nmg/XNEEaP47U68cn\nq0NOakRs7emvIw6rnxvBDg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mmathabo@seta-automation.iam.gserviceaccount.com",
+  "client_id": "116867051242619929481",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mmathabo%40seta-automation.iam.gserviceaccount.com"
+}

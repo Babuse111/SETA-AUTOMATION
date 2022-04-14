@@ -1,3 +1,4 @@
+from optparse import Values
 from typing import final
 from googleapiclient.discovery import build
 from google.oauth2 import service_account
@@ -38,12 +39,14 @@ cohort_2021_df = pd.DataFrame(cohort_2021)
 cohort_2022_df = pd.DataFrame(cohort_2022)
 
 final_df = pd.concat([cohort_2021_df,cohort_2022_df], axis=0)
+SPREADSHEET_ID_FINAL ='1e3mhDmHdFuQnIbO89yqoF9OsY5fxWWAmcodaw1AlL0I'
+WORKSHEET_NAME = "Cohort"
 
-# SPREADSHEET_ID_FINAL ='1e3mhDmHdFuQnIbO89yqoF9OsY5fxWWAmcodaw1AlL0I'
-# WORKSHEET_NAME = "Cohort"
+gc = gspread.authorize(creds)
 
-# d2g.upload(final_df, SPREADSHEET_ID_FINAL,WORKSHEET_NAME, credentials=creds)
-with pd.ExcelWriter("final.xlsx") as writer:
-    final_df.to_excel(writer,sheet_name="Cohort")
+d2g.upload(final_df, SPREADSHEET_ID_FINAL,WORKSHEET_NAME, credentials=creds)
 
-# print(final_df.head())
+# with pd.ExcelWriter("final.xlsx") as writer:
+#     final_df.to_excel(writer,sheet_name="Cohort")
+
+# print(final_df)
